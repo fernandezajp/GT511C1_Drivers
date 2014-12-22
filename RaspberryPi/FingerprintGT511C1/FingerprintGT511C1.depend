@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1412022289 source:/home/pi/wiringPi/codeblocks/FingerprintGT511C1/gt511c1.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	<ctime>
+	<unistd.h>
+	<fcntl.h>
+	<termios.h>
+	"gt511c1.h"
+
+1412022358 /home/pi/wiringPi/codeblocks/FingerprintGT511C1/gt511c1.h
+
+1412021536 source:/home/pi/wiringPi/codeblocks/FingerprintGT511C1/main.cpp
+	<iostream>
+	"gt511c1.h"
+
+1412197180 source:/home/pi/codeblocks/FingerprintGT511C1/main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<unistd.h>
+	<termios.h>
+	<string.h>
+	"gt511c1.h"
+	<unistd.h>
+	<fcntl.h>
+
+1412196132 /home/pi/codeblocks/FingerprintGT511C1/gt511c1.h
+
+1412197777 source:/home/pi/codeblocks/FingerprintGT511C1/gt511c1.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	<ctime>
+	<unistd.h>
+	<fcntl.h>
+	<termios.h>
+	"gt511c1.h"
+

@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program", "program.csproj", "{D745CF55-A0E9-4638-98D4-5B36F40BC32A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinConsole", "..\..\Windows\WinConsole\WinConsole.vcxproj", "{4605296E-E707-432A-850F-75A73736ECE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMU", "..\..\..\..\..\..\IMU Unidad de Movimiento Inercial\UM6LT\DotNET\IMU.csproj", "{66CD4017-351F-4CB7-9793-48454C2F1D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|Win32.ActiveCfg = Release|Any CPU
+		{D745CF55-A0E9-4638-98D4-5B36F40BC32A}.Release|x86.ActiveCfg = Release|Any CPU
+		{4605296E-E707-432A-850F-75A73736ECE8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Debug|Win32.Build.0 = Debug|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Release|Win32.ActiveCfg = Release|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Release|Win32.Build.0 = Release|Win32
+		{4605296E-E707-432A-850F-75A73736ECE8}.Release|x86.ActiveCfg = Release|Win32
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Debug|Win32.ActiveCfg = Debug|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Debug|x86.ActiveCfg = Debug|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Debug|x86.Build.0 = Debug|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Release|Any CPU.ActiveCfg = Release|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Release|Win32.ActiveCfg = Release|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Release|x86.ActiveCfg = Release|x86
+		{66CD4017-351F-4CB7-9793-48454C2F1D0E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
